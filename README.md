@@ -29,7 +29,7 @@
 <div align="center">
 <h3> GitHub status :computer:</h3>
 <br>
-<a href="https://github.com/henriqueburgos">
+<a href="https://github.com/kerisleyk">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kerisleyk&show_icons=true&theme=merko&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerisleyk&layout=compact&langs_count=7&theme=merko"/>
 
